@@ -51,6 +51,10 @@ a:not(.btn) {
     color: #c2b1b1;
 }
 
+i {
+    color: #ffffff;
+}
+
 .section {
     scroll-margin-top: 86px;
     margin-top: 150px;
@@ -232,10 +236,6 @@ a:not(.btn) {
 .promo_social-link:hover {
     transition: transform 0.3s;
     transform: scale(1.1);
-}
-
-.fa {
-    color: #ffffff;
 }
 
 /*============ services ================*/
